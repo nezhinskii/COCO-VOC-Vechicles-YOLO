@@ -1,0 +1,8 @@
+names:
+- car
+- bus
+- truck
+nc: 3
+path: /content/COCO_VOC_vechicles_yolo
+train: ./images/train/
+validation: ./images/validation/
