@@ -3,6 +3,6 @@ names:
 - bus
 - truck
 nc: 3
-path: /content/COCO_VOC_vechicles_yolo
+path: /content/COCO-VOC-Vechicles-YOLO
 train: ./images/train/
-validation: ./images/validation/
+val: ./images/validation/
